@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = s.vasquez85@gmail.com
+	name = Steven Vasquez
